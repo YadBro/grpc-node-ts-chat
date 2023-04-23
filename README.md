@@ -20,7 +20,7 @@ yarn install
 yarn start
 ```
 
-5. In session 2 and others you make a user, run this command (Replace "<username>" like "Yadi"):
+5. In session 2 and others you make a user, run this command (Replace "username" maybe like "Yadi"):
 
 ```sh
 yarn client <username>
@@ -29,7 +29,7 @@ yarn client <username>
 yarn client Yadi
 ```
 
-6. In session 3 and others you make a user, run this command (Replace "<username>" like "Budi"):
+6. In session 3 and others you make a user, run this command (Replace "username" maybe like "Budi"):
 
 ```sh
 yarn client <username>
