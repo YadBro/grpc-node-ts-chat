@@ -1,0 +1,21 @@
+{
+  "name": "node-chat-grpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "proto:gen": "./proto-gen.sh",
+    "start": "ts-node server",
+    "client": "ts-node client"
+  },
+  "devDependencies": {
+    "@grpc/grpc-js": "^1.8.14",
+    "@grpc/proto-loader": "^0.7.6",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "author": {
+    "name": "Yadi Apriyadi",
+    "url": "https://yadi-apriyadi-portfolio.vercel.app"
+  }
+}
